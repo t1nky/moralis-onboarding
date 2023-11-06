@@ -10,7 +10,7 @@ This is a REST API that provides information about NFTs. It is built using Node.
 
 Returns an array of NFTs associated with the provided address. Each NFT object in the array has the following structure:
 
-```json
+```js
 {
   "amount": number,
   "name": string
